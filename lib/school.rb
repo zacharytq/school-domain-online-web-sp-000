@@ -27,5 +27,5 @@ class School
     end
     @roster[grade]
   end
-  
+
 end
